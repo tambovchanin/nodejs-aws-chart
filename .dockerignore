@@ -1,0 +1,10 @@
+# <odules not needed on production
+node_modules
+
+# Documentation, linters and git settings not needed
+README.md
+.eslintrc
+.gitignore
+
+# Tests not need
+test
